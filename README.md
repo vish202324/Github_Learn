@@ -1,2 +1,2 @@
-# Githu_Learn
+# Github_Learn
 This Repository is build for learning Github by Apna College
